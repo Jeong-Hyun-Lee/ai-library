@@ -1,6 +1,6 @@
 collections:
   wiki:
-    path: C:\Users\krinjosl\Desktop\workspace\ai-library\wiki
+    path: wiki
     pattern: "**/*.md"
 models:
   embed: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
