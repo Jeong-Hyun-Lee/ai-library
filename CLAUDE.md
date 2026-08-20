@@ -89,7 +89,7 @@ wiki/                    # LLM이 전적으로 관리
 ### 페이지 규칙
 
 - Obsidian 호환: YAML frontmatter + `[[wikilink]]`.
-- frontmatter 필드: `type`, `tags`, `created`, `updated`, `sources`.
+- frontmatter 필드: `type`, `tags`, `created`, `updated`, `sources`, `auto`(선택 — 자동 루틴이 사람 개입 없이 작성한 페이지면 `true`. 수동 ingest 페이지는 생략).
 - 파일명: kebab-case. 소스 페이지는 `YYYY-MM-DD-슬러그.md`.
 
 ### Ingest 워크플로 (소스 1개씩 깊게 개입)
@@ -135,3 +135,22 @@ wiki/                    # LLM이 전적으로 관리
 **검색**
 
 - `qmd query "질문"` (하이브리드, 기본 권장) / `qmd search "질문"` (키워드만) / `qmd vsearch "질문"` (의미 검색만)
+
+## 7. AI 뉴스 자동 루틴
+
+**트리거**: `schedule` 스킬(클라우드 에이전트, cron)로 매일 오후 12시 45분(KST) 실행. 세션 내 `CronCreate`는 세션 종료 시 소멸 + 7일 만료라 사용하지 않는다.
+
+**워크플로** (`## 6.`의 수동 Ingest와 별개, 사람 개입 없이 전부 자동):
+
+1. `last30days` 스킴으로 "AI 소식"(모델/논문/툴/트렌드) 검색
+2. `wiki/log.md` + `wiki/index.md`를 읽고, 이미 다룬 주제/이벤트와 겹치는 후보 제외 (LLM 판단, 별도 DB 없음)
+3. 남은 후보 중 상위 3건 선정 (품질/중요도 기준)
+4. 각 건마다:
+   - `wiki/sources/YYYY-MM-DD-슬러그.md` 작성 — 링크+요약만, `raw/` 저장 생략, frontmatter에 `auto: true` 추가
+   - 관련 `entities/`, `concepts/` 페이지 갱신 (모순 발견 시 명시)
+   - `wiki/timeline/YYYY-MM.md`에 항목 추가
+5. `wiki/index.md` 갱신 (Sources 섹션 포함)
+6. `wiki/log.md`에 append: `## [YYYY-MM-DD] ingest (auto) | 제목` — 수동 ingest와 `(auto)` 표시로 구분
+7. `qmd update && qmd embed` 재실행
+8. 커밋(한글, Conventional Commits, 본문 최대 2줄, 작성자 표기 없음) + `git push origin main`까지 자동
+9. 그날 후보가 0건이면 아무것도 기록/커밋하지 않는다 (`log.md`, `index.md`, git 전부 무변경)
