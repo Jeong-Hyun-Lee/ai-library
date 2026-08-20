@@ -101,7 +101,7 @@ wiki/                    # LLM이 전적으로 관리
 5. `wiki/timeline/YYYY-MM.md`에 항목 추가
 6. `wiki/index.md` 갱신
 7. `wiki/log.md`에 append: `## [YYYY-MM-DD] ingest | 제목`
-8. `qmd embed` 재실행 (증분 임베딩)
+8. `qmd update && qmd embed` 재실행 (증분 인덱싱 + 임베딩)
 
 ### Query 워크플로
 
@@ -116,8 +116,21 @@ wiki/                    # LLM이 전적으로 관리
 
 ### qmd 검색 도구
 
+**주의**: qmd 명령(`qmd update`, `qmd embed`, `qmd query` 등)은 항상 저장소 루트에서 실행한다. `.qmd/index.yml`이 상대 경로(`path: wiki`)를 쓰기 때문에, 다른 디렉터리에서 실행하면 엉뚱한 경로를 스캔해 컬렉션 파일이 삭제된 것으로 처리될 수 있다.
+
+**최초 설정 (이 저장소에서 이미 완료됨, 재실행 금지)**
+
 - 설치: `npm install -g @tobilu/qmd`
 - 프로젝트 로컬 인덱스: `qmd init` (`.qmd/index.yml` 생성)
 - 컬렉션 등록: `qmd collection add wiki --name wiki`
 - 임베딩: `qmd embed`
-- 검색: `qmd query "질문"` (하이브리드, 기본 권장) / `qmd search "질문"` (키워드만) / `qmd vsearch "질문"` (의미 검색만)
+- `.qmd/index.yml`이 이미 커밋되어 있다. `qmd collection add`를 다시 실행하면 경로 인자가 절대경로로 resolve되어 `path:` 필드를 덮어쓴다 (커밋 609304f에서 고친 상대경로 버그가 재발함) — 재실행 금지.
+
+**새 클론 / 새 머신에서 할 일**
+
+1. `qmd pull` (모델 다운로드, 최초 1회)
+2. `qmd update && qmd embed` (파일시스템 스캔 + 임베딩. `qmd init`, `qmd collection add`는 재실행하지 않는다)
+
+**검색**
+
+- `qmd query "질문"` (하이브리드, 기본 권장) / `qmd search "질문"` (키워드만) / `qmd vsearch "질문"` (의미 검색만)
