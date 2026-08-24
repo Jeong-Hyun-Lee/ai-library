@@ -5,3 +5,6 @@
 ## [2026-08-21] ingest (auto) | Qwen3.8-Max 출시
 ## [2026-08-21] ingest (auto) | Gemini 3.7 Flash 출시
 ## [2026-08-21] ingest (auto) | GLM-5.3 출시
+## [2026-08-24] ingest (auto) | Claude Opus 5 출시
+## [2026-08-24] ingest (auto) | GPT-5.6 출시
+## [2026-08-24] ingest (auto) | Grok 4.6 출시
