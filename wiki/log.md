@@ -8,3 +8,6 @@
 ## [2026-08-24] ingest (auto) | Claude Opus 5 출시
 ## [2026-08-24] ingest (auto) | GPT-5.6 출시
 ## [2026-08-24] ingest (auto) | Grok 4.6 출시
+## [2026-08-25] ingest (auto) | DeepSeek-V4-Pro GA 전환
+## [2026-08-25] ingest (auto) | Nemotron 3.5 Lightning 출시
+## [2026-08-25] ingest (auto) | OX Alpha 정체불명 모델 등장
