@@ -11,3 +11,6 @@
 ## [2026-08-25] ingest (auto) | DeepSeek-V4-Pro GA 전환
 ## [2026-08-25] ingest (auto) | Nemotron 3.5 Lightning 출시
 ## [2026-08-25] ingest (auto) | OX Alpha 정체불명 모델 등장
+## [2026-08-26] ingest (auto) | Thinking Machines, Inkling 출시
+## [2026-08-26] ingest (auto) | DeepSeek V4-Flash-0731 정식 출시
+## [2026-08-26] ingest (auto) | Meta, Muse Glimmer 오픈소스 공개
