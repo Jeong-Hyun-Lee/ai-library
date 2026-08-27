@@ -14,3 +14,6 @@
 ## [2026-08-26] ingest (auto) | Thinking Machines, Inkling 출시
 ## [2026-08-26] ingest (auto) | DeepSeek V4-Flash-0731 정식 출시
 ## [2026-08-26] ingest (auto) | Meta, Muse Glimmer 오픈소스 공개
+## [2026-08-27] ingest (auto) | Kimi K3 출시
+## [2026-08-27] ingest (auto) | OpenAI, Astra "Critical" 사이버 역량 가능성 공개
+## [2026-08-27] ingest (auto) | NVIDIA, Alpamayo 2 Super 공개
