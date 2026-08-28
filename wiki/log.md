@@ -17,3 +17,6 @@
 ## [2026-08-27] ingest (auto) | Kimi K3 출시
 ## [2026-08-27] ingest (auto) | OpenAI, Astra "Critical" 사이버 역량 가능성 공개
 ## [2026-08-27] ingest (auto) | NVIDIA, Alpamayo 2 Super 공개
+## [2026-08-28] ingest (auto) | GLM-5.3-Flash 출시 (OX Alpha 정체 확인)
+## [2026-08-28] ingest (auto) | DeepMind, "Visual General Intelligence" 백서 발표
+## [2026-08-28] ingest (auto) | Cloudflare, Kitesurf 출시
