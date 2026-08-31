@@ -3,6 +3,7 @@
 ## Entities
 
 - [[alpamayo]]
+- [[asteromov]]
 - [[astra]]
 - [[claude]]
 - [[deepmind]]
@@ -23,6 +24,7 @@
 
 ## Sources
 
+- [[2026-07-08-asteromov-ipho-2026-gold]]
 - [[2026-07-09-gpt-5-6]]
 - [[2026-07-15-thinking-machines-inkling]]
 - [[2026-07-16-kimi-k3]]
@@ -41,6 +43,8 @@
 - [[2026-08-20-ox-alpha]]
 - [[2026-08-26-deepmind-visual-general-intelligence]]
 - [[2026-08-26-glm-5-3-flash]]
+- [[2026-08-27-gemini-omni-1-1-flash]]
+- [[2026-08-28-anthropic-automated-alignment-research]]
 
 ## Comparisons
 

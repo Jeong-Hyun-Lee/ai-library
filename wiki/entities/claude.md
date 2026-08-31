@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, anthropic]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-31
 sources:
   - https://www.anthropic.com/news/claude-opus-5
 auto: true
@@ -15,3 +15,7 @@ Anthropic의 LLM 제품군.
 ## 릴리스
 
 - 2026-07-24: [[2026-07-24-claude-opus-5|Claude Opus 5]] 출시 — Fable 5에 근접한 지능을 절반 가격에, effort dial 도입
+
+## 관련 연구
+
+- 2026-08-28: [[2026-08-28-anthropic-automated-alignment-research|자동화된 정렬(alignment) 연구 결과 발표]] — Claude가 문헌 검색·제안·학습·테스트 루프를 자율 수행해 10개 정렬 결함 범주 모두에서 개선책 발견

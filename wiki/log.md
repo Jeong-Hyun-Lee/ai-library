@@ -20,3 +20,6 @@
 ## [2026-08-28] ingest (auto) | GLM-5.3-Flash 출시 (OX Alpha 정체 확인)
 ## [2026-08-28] ingest (auto) | DeepMind, "Visual General Intelligence" 백서 발표
 ## [2026-08-28] ingest (auto) | Cloudflare, Kitesurf 출시
+## [2026-08-31] ingest (auto) | Anthropic, 자동화된 정렬 연구 결과 발표
+## [2026-08-31] ingest (auto) | Asteromov AI, IPhO 2026 금메달 성적
+## [2026-08-31] ingest (auto) | Gemini Omni 1.1 Flash 출시
