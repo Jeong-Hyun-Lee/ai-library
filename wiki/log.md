@@ -23,3 +23,6 @@
 ## [2026-08-31] ingest (auto) | Anthropic, 자동화된 정렬 연구 결과 발표
 ## [2026-08-31] ingest (auto) | Asteromov AI, IPhO 2026 금메달 성적
 ## [2026-08-31] ingest (auto) | Gemini Omni 1.1 Flash 출시
+## [2026-09-01] ingest (auto) | KAIST, 바이오 AI 모델 K-Fold 공개
+## [2026-09-01] ingest (auto) | Meta, Muse Spark 1.2 및 Muse Code 공개
+## [2026-09-01] ingest (auto) | Tencent, Hy4 Preview 오픈소스 공개

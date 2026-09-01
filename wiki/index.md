@@ -12,7 +12,9 @@
 - [[glm]]
 - [[gpt]]
 - [[grok]]
+- [[hy]]
 - [[inkling]]
+- [[k-fold]]
 - [[kimi]]
 - [[kitesurf]]
 - [[muse]]
@@ -32,6 +34,7 @@
 - [[2026-07-31-deepseek-v4-flash-0731]]
 - [[2026-08-03-qwen3-8-max]]
 - [[2026-08-04-nvidia-alpamayo-2-super]]
+- [[2026-08-05-meta-muse-spark-1-2-muse-code]]
 - [[2026-08-06-cloudflare-kitesurf]]
 - [[2026-08-07-openai-astra-critical-cyber]]
 - [[2026-08-10-meta-muse-glimmer]]
@@ -45,6 +48,8 @@
 - [[2026-08-26-glm-5-3-flash]]
 - [[2026-08-27-gemini-omni-1-1-flash]]
 - [[2026-08-28-anthropic-automated-alignment-research]]
+- [[2026-08-28-kaist-k-fold]]
+- [[2026-08-28-tencent-hy4-preview]]
 
 ## Comparisons
 
