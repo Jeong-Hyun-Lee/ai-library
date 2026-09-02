@@ -21,6 +21,7 @@
 - [[nemotron]]
 - [[ox-alpha]]
 - [[qwen]]
+- [[solaris]]
 
 ## Concepts
 
@@ -50,6 +51,9 @@
 - [[2026-08-28-anthropic-automated-alignment-research]]
 - [[2026-08-28-kaist-k-fold]]
 - [[2026-08-28-tencent-hy4-preview]]
+- [[2026-08-31-runway-solaris]]
+- [[2026-09-01-claude-fable-5-1]]
+- [[2026-09-01-openai-astra-critical-confirmed]]
 
 ## Comparisons
 
@@ -57,3 +61,4 @@
 
 - [[2026-07]]
 - [[2026-08]]
+- [[2026-09]]

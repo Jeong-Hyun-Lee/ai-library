@@ -26,3 +26,6 @@
 ## [2026-09-01] ingest (auto) | KAIST, 바이오 AI 모델 K-Fold 공개
 ## [2026-09-01] ingest (auto) | Meta, Muse Spark 1.2 및 Muse Code 공개
 ## [2026-09-01] ingest (auto) | Tencent, Hy4 Preview 오픈소스 공개
+## [2026-09-02] ingest (auto) | Claude Fable 5.1 및 Mythos 5.1 출시
+## [2026-09-02] ingest (auto) | OpenAI, Astra "Critical" 등급 공식 확인
+## [2026-09-02] ingest (auto) | Runway, Solaris("Interface World Model") 공개
