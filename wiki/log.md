@@ -29,3 +29,6 @@
 ## [2026-09-02] ingest (auto) | Claude Fable 5.1 및 Mythos 5.1 출시
 ## [2026-09-02] ingest (auto) | OpenAI, Astra "Critical" 등급 공식 확인
 ## [2026-09-02] ingest (auto) | Runway, Solaris("Interface World Model") 공개
+## [2026-09-03] ingest (auto) | Gemini 3.8 Flash 출시
+## [2026-09-03] ingest (auto) | Visko, Orbis 1.0("Live Model") 공개
+## [2026-09-03] ingest (auto) | Anthropic, 데이터 보존 정책 철회
