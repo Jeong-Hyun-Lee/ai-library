@@ -32,3 +32,6 @@
 ## [2026-09-03] ingest (auto) | Gemini 3.8 Flash 출시
 ## [2026-09-03] ingest (auto) | Visko, Orbis 1.0("Live Model") 공개
 ## [2026-09-03] ingest (auto) | Anthropic, 데이터 보존 정책 철회
+## [2026-09-04] ingest (auto) | World Labs, 옴니 월드모델 Atlas 공개
+## [2026-09-04] ingest (auto) | DeepSeek, 첫 멀티모달 실험 모델 V4-Flash-Vision-Exp 공개
+## [2026-09-04] ingest (auto) | 美 국방부, GenAI.mil에 ChatGPT Mil·Grok 추가

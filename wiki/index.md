@@ -5,6 +5,7 @@
 - [[alpamayo]]
 - [[asteromov]]
 - [[astra]]
+- [[atlas]]
 - [[claude]]
 - [[deepmind]]
 - [[deepseek]]
@@ -52,11 +53,14 @@
 - [[2026-08-28-anthropic-automated-alignment-research]]
 - [[2026-08-28-kaist-k-fold]]
 - [[2026-08-28-tencent-hy4-preview]]
+- [[2026-08-31-deepseek-v4-flash-vision-exp]]
+- [[2026-08-31-pentagon-genai-mil-chatgpt-grok]]
 - [[2026-08-31-runway-solaris]]
 - [[2026-09-01-anthropic-data-retention-reversal]]
 - [[2026-09-01-claude-fable-5-1]]
 - [[2026-09-01-openai-astra-critical-confirmed]]
 - [[2026-09-01-visko-orbis]]
+- [[2026-09-01-world-labs-atlas]]
 - [[2026-09-02-gemini-3-8-flash]]
 
 ## Comparisons
