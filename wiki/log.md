@@ -35,3 +35,6 @@
 ## [2026-09-04] ingest (auto) | World Labs, 옴니 월드모델 Atlas 공개
 ## [2026-09-04] ingest (auto) | DeepSeek, 첫 멀티모달 실험 모델 V4-Flash-Vision-Exp 공개
 ## [2026-09-04] ingest (auto) | 美 국방부, GenAI.mil에 ChatGPT Mil·Grok 추가
+## [2026-09-07] ingest (auto) | OpenAI, GPT-6 Astra 정식 출시
+## [2026-09-07] ingest (auto) | MBZUAI, 완전 오픈소스 K2 Horizon 공개
+## [2026-09-07] ingest (auto) | Google DeepMind, WeatherNext 3 공개

@@ -16,6 +16,7 @@
 - [[hy]]
 - [[inkling]]
 - [[k-fold]]
+- [[k2-horizon]]
 - [[kimi]]
 - [[kitesurf]]
 - [[muse]]
@@ -24,6 +25,7 @@
 - [[ox-alpha]]
 - [[qwen]]
 - [[solaris]]
+- [[weathernext]]
 
 ## Concepts
 
@@ -62,6 +64,9 @@
 - [[2026-09-01-visko-orbis]]
 - [[2026-09-01-world-labs-atlas]]
 - [[2026-09-02-gemini-3-8-flash]]
+- [[2026-09-03-gpt-6-astra-launch]]
+- [[2026-09-03-k2-horizon]]
+- [[2026-09-03-weathernext-3]]
 
 ## Comparisons
 

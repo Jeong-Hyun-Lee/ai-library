@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, openai]
 created: 2026-08-24
-updated: 2026-09-04
+updated: 2026-09-07
 sources:
   - https://openai.com/index/previewing-gpt-5-6-sol/
 auto: true
@@ -15,6 +15,7 @@ OpenAI의 LLM 제품군.
 ## 릴리스
 
 - 2026-07-09: [[2026-07-09-gpt-5-6|GPT-5.6]] 출시 — Sol/Terra/Luna 3단계 티어, 105만 토큰 컨텍스트
+- 2026-09-03: [[2026-09-03-gpt-6-astra-launch|GPT-6 Astra]] 출시 — [[astra|Astra]] 정식 명칭, ARC-AGI-3·FrontierMath·ExploitBench 최고 기록, OpenAI가 "AGI 시대" 선언
 
 ## 정부·트렌드
 
