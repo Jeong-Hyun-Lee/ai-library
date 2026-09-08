@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, openai]
 created: 2026-08-24
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - https://openai.com/index/previewing-gpt-5-6-sol/
 auto: true
@@ -20,3 +20,4 @@ OpenAI의 LLM 제품군.
 ## 정부·트렌드
 
 - 2026-08-31: [[2026-08-31-pentagon-genai-mil-chatgpt-grok|美 국방부 GenAI.mil에 ChatGPT Mil 추가]] — [[grok|Grok]]과 함께 정부용 버전 배치, Anthropic Claude는 협상 결렬로 불참
+- 2026-09-06: [[2026-09-06-openai-research-acceleration|내부 연구조직 에이전트 활용 실태 공개]] — 사람 1근무일당 에이전트 3.1근무일 투입, "자동화된 연구 인턴" 목표 달성 선언

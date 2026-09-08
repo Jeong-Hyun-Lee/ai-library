@@ -38,3 +38,6 @@
 ## [2026-09-07] ingest (auto) | OpenAI, GPT-6 Astra 정식 출시
 ## [2026-09-07] ingest (auto) | MBZUAI, 완전 오픈소스 K2 Horizon 공개
 ## [2026-09-07] ingest (auto) | Google DeepMind, WeatherNext 3 공개
+## [2026-09-08] ingest (auto) | Microsoft, MAI-Transcribe-2 출시
+## [2026-09-08] ingest (auto) | OpenAI, 연구조직 에이전트 활용 실태 공개
+## [2026-09-08] ingest (auto) | Perplexity, Hybrid Compute 출시
