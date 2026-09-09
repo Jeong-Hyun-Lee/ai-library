@@ -3,6 +3,7 @@
 ## Entities
 
 - [[alpamayo]]
+- [[alphagenome]]
 - [[asteromov]]
 - [[astra]]
 - [[atlas]]
@@ -21,6 +22,7 @@
 - [[kimi]]
 - [[kitesurf]]
 - [[mai-transcribe]]
+- [[mistral]]
 - [[muse]]
 - [[nemotron]]
 - [[orbis]]
@@ -72,6 +74,9 @@
 - [[2026-09-03-microsoft-mai-transcribe-2]]
 - [[2026-09-03-weathernext-3]]
 - [[2026-09-06-openai-research-acceleration]]
+- [[2026-09-08-alphagenome-atlas]]
+- [[2026-09-08-china-ai-compute-plan]]
+- [[2026-09-08-mistral-series-d]]
 
 ## Comparisons
 

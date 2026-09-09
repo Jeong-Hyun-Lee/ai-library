@@ -41,3 +41,6 @@
 ## [2026-09-08] ingest (auto) | Microsoft, MAI-Transcribe-2 출시
 ## [2026-09-08] ingest (auto) | OpenAI, 연구조직 에이전트 활용 실태 공개
 ## [2026-09-08] ingest (auto) | Perplexity, Hybrid Compute 출시
+## [2026-09-09] ingest (auto) | Google DeepMind, AlphaGenome Atlas 공개
+## [2026-09-09] ingest (auto) | Mistral, 시리즈D 30억 유로 유치
+## [2026-09-09] ingest (auto) | 中 공업정보화부, AI 컴퓨팅 인프라 확대 계획 공개
