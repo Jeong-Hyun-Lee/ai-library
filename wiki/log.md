@@ -44,3 +44,6 @@
 ## [2026-09-09] ingest (auto) | Google DeepMind, AlphaGenome Atlas 공개
 ## [2026-09-09] ingest (auto) | Mistral, 시리즈D 30억 유로 유치
 ## [2026-09-09] ingest (auto) | 中 공업정보화부, AI 컴퓨팅 인프라 확대 계획 공개
+## [2026-09-10] ingest (auto) | Anthropic 연구원, AI 위험 경고하며 사임
+## [2026-09-10] ingest (auto) | Meta, 개인 AI 에이전트 "Muse" 출시
+## [2026-09-10] ingest (auto) | Tenable·OpenAI, CyberAgents Exchange AI Inspector 공개
