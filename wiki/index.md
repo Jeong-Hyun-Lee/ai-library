@@ -28,6 +28,7 @@
 - [[nemotron]]
 - [[orbis]]
 - [[ox-alpha]]
+- [[positron]]
 - [[qwen]]
 - [[solaris]]
 - [[weathernext]]
@@ -81,6 +82,9 @@
 - [[2026-09-08-china-ai-compute-plan]]
 - [[2026-09-08-meta-muse-agent]]
 - [[2026-09-08-mistral-series-d]]
+- [[2026-09-09-ant-visa-mastercard-kya]]
+- [[2026-09-10-moonshot-claude-routing-scandal]]
+- [[2026-09-10-positron-series-c]]
 
 ## Comparisons
 

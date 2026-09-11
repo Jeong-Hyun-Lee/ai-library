@@ -47,3 +47,6 @@
 ## [2026-09-10] ingest (auto) | Anthropic 연구원, AI 위험 경고하며 사임
 ## [2026-09-10] ingest (auto) | Meta, 개인 AI 에이전트 "Muse" 출시
 ## [2026-09-10] ingest (auto) | Tenable·OpenAI, CyberAgents Exchange AI Inspector 공개
+## [2026-09-11] ingest (auto) | Anthropic, Moonshot의 Claude 무단 우회·증류 의혹 제기
+## [2026-09-11] ingest (auto) | Ant·Visa·Mastercard, Know-Your-Agent(KYA) 프레임워크 협업
+## [2026-09-11] ingest (auto) | Positron, 시리즈C 8.75억 달러 유치
