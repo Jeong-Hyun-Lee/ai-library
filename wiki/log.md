@@ -50,3 +50,6 @@
 ## [2026-09-11] ingest (auto) | Anthropic, Moonshot의 Claude 무단 우회·증류 의혹 제기
 ## [2026-09-11] ingest (auto) | Ant·Visa·Mastercard, Know-Your-Agent(KYA) 프레임워크 협업
 ## [2026-09-11] ingest (auto) | Positron, 시리즈C 8.75억 달러 유치
+## [2026-09-14] ingest (auto) | DeepSeek, V4.1-Flash 출시
+## [2026-09-14] ingest (auto) | Sakana AI, Fugu Max·Fugu Ultra v2.0 출시
+## [2026-09-14] ingest (auto) | OpenAI, "2026년 상장 없다" 발표

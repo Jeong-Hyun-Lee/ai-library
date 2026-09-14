@@ -30,6 +30,7 @@
 - [[ox-alpha]]
 - [[positron]]
 - [[qwen]]
+- [[sakana-ai]]
 - [[solaris]]
 - [[weathernext]]
 
@@ -83,8 +84,11 @@
 - [[2026-09-08-meta-muse-agent]]
 - [[2026-09-08-mistral-series-d]]
 - [[2026-09-09-ant-visa-mastercard-kya]]
+- [[2026-09-10-deepseek-v4-1-flash]]
 - [[2026-09-10-moonshot-claude-routing-scandal]]
 - [[2026-09-10-positron-series-c]]
+- [[2026-09-11-sakana-fugu-ultra-v2]]
+- [[2026-09-12-openai-ipo-delay]]
 
 ## Comparisons
 
