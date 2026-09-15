@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, anthropic]
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-15
 sources:
   - https://www.anthropic.com/news/claude-opus-5
 auto: true
@@ -28,7 +28,12 @@ Anthropic의 LLM 제품군.
 ## 안전 관련 트렌드
 
 - 2026-09-08: [[2026-09-08-anthropic-researcher-resignation-warning|연구원 사임 및 AI 위험 경고]] — Jacob Coxon이 초지능 경쟁의 위험성을 경고하며 사임, Alignment Science Lead Evan Hubinger는 "AI가 인류를 죽일 확률 10년 내 10% 이상"이라고 공개 발언
+- 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei, AI 개발 속도 조절 촉구]] — Altman·Musk 동조, Trump는 공개 거부
 
 ## 분쟁
 
 - 2026-09-10: [[2026-09-10-moonshot-claude-routing-scandal|Moonshot 무단 우회·증류 의혹 제기]] — [[kimi|Kimi]] 참고
+
+## 제품·가격 정책
+
+- 2026-09-14: [[2026-09-14-claude-code-weekly-limit-cut|Claude Code 주간 사용한도 실질 17% 축소]] — "25% 인상" 공지가 실제로는 임시 증량 종료로 인한 감소를 가림, 커뮤니티 반발 후 정정

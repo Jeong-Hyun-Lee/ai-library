@@ -53,3 +53,6 @@
 ## [2026-09-14] ingest (auto) | DeepSeek, V4.1-Flash 출시
 ## [2026-09-14] ingest (auto) | Sakana AI, Fugu Max·Fugu Ultra v2.0 출시
 ## [2026-09-14] ingest (auto) | OpenAI, "2026년 상장 없다" 발표
+## [2026-09-15] ingest (auto) | Amodei, AI 개발 속도 조절 촉구 — Altman·Musk 동조, Trump 거부
+## [2026-09-15] ingest (auto) | Anthropic, Claude Code 주간 사용한도 실질 17% 축소
+## [2026-09-15] ingest (auto) | Google, Google Pics 정식 출시

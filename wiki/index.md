@@ -67,6 +67,7 @@
 - [[2026-08-31-runway-solaris]]
 - [[2026-09-01-anthropic-data-retention-reversal]]
 - [[2026-09-01-claude-fable-5-1]]
+- [[2026-09-01-google-pics]]
 - [[2026-09-01-openai-astra-critical-confirmed]]
 - [[2026-09-01-perplexity-hybrid-compute]]
 - [[2026-09-01-visko-orbis]]
@@ -88,7 +89,9 @@
 - [[2026-09-10-moonshot-claude-routing-scandal]]
 - [[2026-09-10-positron-series-c]]
 - [[2026-09-11-sakana-fugu-ultra-v2]]
+- [[2026-09-12-ai-slowdown-call-amodei]]
 - [[2026-09-12-openai-ipo-delay]]
+- [[2026-09-14-claude-code-weekly-limit-cut]]
 
 ## Comparisons
 

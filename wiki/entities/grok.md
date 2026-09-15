@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, xai]
 created: 2026-08-24
-updated: 2026-09-04
+updated: 2026-09-15
 sources:
   - https://kie.ai/blog/what-is-grok-4-6
 auto: true
@@ -19,3 +19,4 @@ xAI의 LLM 제품군.
 ## 정부·트렌드
 
 - 2026-08-31: [[2026-08-31-pentagon-genai-mil-chatgpt-grok|美 국방부 GenAI.mil에 Grok for Government 추가]] — [[gpt|ChatGPT Mil]]과 함께 정부용 버전 배치
+- 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei의 AI 속도 조절 촉구에 동조]] — Elon Musk "Dario가 옳다"

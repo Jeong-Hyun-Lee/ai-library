@@ -22,3 +22,4 @@ OpenAI의 LLM 제품군.
 - 2026-08-31: [[2026-08-31-pentagon-genai-mil-chatgpt-grok|美 국방부 GenAI.mil에 ChatGPT Mil 추가]] — [[grok|Grok]]과 함께 정부용 버전 배치, Anthropic Claude는 협상 결렬로 불참
 - 2026-09-06: [[2026-09-06-openai-research-acceleration|내부 연구조직 에이전트 활용 실태 공개]] — 사람 1근무일당 에이전트 3.1근무일 투입, "자동화된 연구 인턴" 목표 달성 선언
 - 2026-09-12: [[2026-09-12-openai-ipo-delay|"2026년 상장 없다" 발표]] — Sam Altman, AI 안전·정렬 문제 집중을 이유로 IPO 연기
+- 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei의 AI 속도 조절 촉구에 동조]] — Sam Altman "Dario 말에 동의한다"
