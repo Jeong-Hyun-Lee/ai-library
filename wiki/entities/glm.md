@@ -2,7 +2,7 @@
 type: entity
 tags: [model-family, z-ai]
 created: 2026-08-21
-updated: 2026-08-28
+updated: 2026-09-16
 sources:
   - https://z.ai/blog/glm-5.3
 auto: true
@@ -20,3 +20,7 @@ Z.ai(구 Zhipu AI)의 LLM 제품군.
 ## 정정: OX Alpha 정체 확인 (2026-08-28)
 
 2026-08-25에 "미확정"으로 기록했던 [[2026-08-20-ox-alpha|OX Alpha]]와 GLM의 연관 의혹이 2026-08-26 Z.ai의 공식 확인으로 해소됨 — OX Alpha는 정식 출시 전 익명으로 테스트되던 GLM-5.3-Flash였다.
+
+## 관련 파생 모델
+
+- 2026-09-11: 상하이 AI연구원이 GLM-5.2(7,440억 파라미터 MoE) 베이스에 자체 포스트트레이닝을 적용한 [[atria|Atria]] Dawn Preview 공개 — [[2026-09-11-atria-dawn-preview|자세히]]

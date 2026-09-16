@@ -56,3 +56,6 @@
 ## [2026-09-15] ingest (auto) | Amodei, AI 개발 속도 조절 촉구 — Altman·Musk 동조, Trump 거부
 ## [2026-09-15] ingest (auto) | Anthropic, Claude Code 주간 사용한도 실질 17% 축소
 ## [2026-09-15] ingest (auto) | Google, Google Pics 정식 출시
+## [2026-09-16] ingest (auto) | 상하이 AI연구원, Atria Dawn Preview 공개
+## [2026-09-16] ingest (auto) | 한글과컴퓨터, AI 워크포스 플랫폼 "노마디안" 발표
+## [2026-09-16] ingest (auto) | Profound, 시리즈D 유치·유니콘 등극

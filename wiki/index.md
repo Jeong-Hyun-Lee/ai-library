@@ -7,6 +7,7 @@
 - [[asteromov]]
 - [[astra]]
 - [[atlas]]
+- [[atria]]
 - [[claude]]
 - [[cyberagents-exchange]]
 - [[deepmind]]
@@ -26,9 +27,11 @@
 - [[mistral]]
 - [[muse]]
 - [[nemotron]]
+- [[nomadian]]
 - [[orbis]]
 - [[ox-alpha]]
 - [[positron]]
+- [[profound]]
 - [[qwen]]
 - [[sakana-ai]]
 - [[solaris]]
@@ -89,9 +92,12 @@
 - [[2026-09-10-moonshot-claude-routing-scandal]]
 - [[2026-09-10-positron-series-c]]
 - [[2026-09-11-sakana-fugu-ultra-v2]]
+- [[2026-09-11-atria-dawn-preview]]
 - [[2026-09-12-ai-slowdown-call-amodei]]
 - [[2026-09-12-openai-ipo-delay]]
 - [[2026-09-14-claude-code-weekly-limit-cut]]
+- [[2026-09-14-hancom-nomadian]]
+- [[2026-09-15-profound-series-d]]
 
 ## Comparisons
 
