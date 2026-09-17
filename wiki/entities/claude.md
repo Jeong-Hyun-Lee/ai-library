@@ -34,6 +34,10 @@ Anthropic의 LLM 제품군.
 
 - 2026-09-10: [[2026-09-10-moonshot-claude-routing-scandal|Moonshot 무단 우회·증류 의혹 제기]] — [[kimi|Kimi]] 참고
 
+## 산업 협력
+
+- 2026-09-15: [[2026-09-15-ai-standards-body|OpenAI·Google과 AI 표준화 기구 공동 설립 논의 공식 확인]] — 신규 모델 출시 전 안전성 테스트 공통 규칙 수립이 목표
+
 ## 제품·가격 정책
 
 - 2026-09-14: [[2026-09-14-claude-code-weekly-limit-cut|Claude Code 주간 사용한도 실질 17% 축소]] — "25% 인상" 공지가 실제로는 임시 증량 종료로 인한 감소를 가림, 커뮤니티 반발 후 정정

@@ -21,3 +21,7 @@ Google의 LLM 제품군.
 ## 관련 툴
 
 - 2026-09-01: [[2026-09-01-google-pics|Google Pics]] 정식 출시 — Gemini 기반 Workspace 네이티브 AI 이미지 생성·편집기, Canva 경쟁 제품
+
+## 산업 협력
+
+- 2026-09-15: [[2026-09-15-ai-standards-body|OpenAI·Anthropic과 AI 표준화 기구 공동 설립 논의 공식 확인]] — Google DeepMind CEO Demis Hassabis의 FINRA 모델 제안에서 출발

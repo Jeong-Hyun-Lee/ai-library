@@ -59,3 +59,6 @@
 ## [2026-09-16] ingest (auto) | 상하이 AI연구원, Atria Dawn Preview 공개
 ## [2026-09-16] ingest (auto) | 한글과컴퓨터, AI 워크포스 플랫폼 "노마디안" 발표
 ## [2026-09-16] ingest (auto) | Profound, 시리즈D 유치·유니콘 등극
+## [2026-09-17] ingest (auto) | OpenAI·Anthropic·Google, AI 표준화 기구 공동 설립 논의
+## [2026-09-17] ingest (auto) | TypeSafe AI, 스텔스 탈출·시드 4,000만 달러 유치
+## [2026-09-17] ingest (auto) | LawZero, 캐나다·독일로부터 최대 3억 달러 공동 지원

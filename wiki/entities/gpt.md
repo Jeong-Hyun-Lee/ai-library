@@ -23,3 +23,4 @@ OpenAI의 LLM 제품군.
 - 2026-09-06: [[2026-09-06-openai-research-acceleration|내부 연구조직 에이전트 활용 실태 공개]] — 사람 1근무일당 에이전트 3.1근무일 투입, "자동화된 연구 인턴" 목표 달성 선언
 - 2026-09-12: [[2026-09-12-openai-ipo-delay|"2026년 상장 없다" 발표]] — Sam Altman, AI 안전·정렬 문제 집중을 이유로 IPO 연기
 - 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei의 AI 속도 조절 촉구에 동조]] — Sam Altman "Dario 말에 동의한다"
+- 2026-09-15: [[2026-09-15-ai-standards-body|Anthropic·Google과 AI 표준화 기구 공동 설립 논의 공식 확인]] — Demis Hassabis 제안에서 출발, FINRA 모델의 산업 자율규제 기구 구상

@@ -23,6 +23,7 @@
 - [[k2-horizon]]
 - [[kimi]]
 - [[kitesurf]]
+- [[lawzero]]
 - [[mai-transcribe]]
 - [[mistral]]
 - [[muse]]
@@ -35,6 +36,7 @@
 - [[qwen]]
 - [[sakana-ai]]
 - [[solaris]]
+- [[typesafe-ai]]
 - [[weathernext]]
 
 ## Concepts
@@ -98,6 +100,9 @@
 - [[2026-09-14-claude-code-weekly-limit-cut]]
 - [[2026-09-14-hancom-nomadian]]
 - [[2026-09-15-profound-series-d]]
+- [[2026-09-15-ai-standards-body]]
+- [[2026-09-15-typesafe-ai-stealth]]
+- [[2026-09-17-lawzero-canada-germany-funding]]
 
 ## Comparisons
 
