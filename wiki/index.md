@@ -4,6 +4,7 @@
 
 - [[alpamayo]]
 - [[alphagenome]]
+- [[apple]]
 - [[asteromov]]
 - [[astra]]
 - [[atlas]]
@@ -29,6 +30,7 @@
 - [[muse]]
 - [[nemotron]]
 - [[nomadian]]
+- [[openresearch]]
 - [[orbis]]
 - [[ox-alpha]]
 - [[positron]]
@@ -36,6 +38,7 @@
 - [[qwen]]
 - [[sakana-ai]]
 - [[solaris]]
+- [[toyota]]
 - [[typesafe-ai]]
 - [[weathernext]]
 
@@ -103,6 +106,9 @@
 - [[2026-09-15-ai-standards-body]]
 - [[2026-09-15-typesafe-ai-stealth]]
 - [[2026-09-17-lawzero-canada-germany-funding]]
+- [[2026-09-16-apple-enterprise-ai-server]]
+- [[2026-09-17-alphaxiv-openresearch]]
+- [[2026-09-18-toyota-humanoid-robot-400k]]
 
 ## Comparisons
 

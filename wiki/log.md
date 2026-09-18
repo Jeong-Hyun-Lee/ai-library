@@ -62,3 +62,6 @@
 ## [2026-09-17] ingest (auto) | OpenAI·Anthropic·Google, AI 표준화 기구 공동 설립 논의
 ## [2026-09-17] ingest (auto) | TypeSafe AI, 스텔스 탈출·시드 4,000만 달러 유치
 ## [2026-09-17] ingest (auto) | LawZero, 캐나다·독일로부터 최대 3억 달러 공동 지원
+## [2026-09-18] ingest (auto) | Apple, 자체 칩 기반 기업용 AI 서버 개발 중
+## [2026-09-18] ingest (auto) | alphaXiv, 코딩 에이전트→연구 에이전트 "OpenResearch" 공개
+## [2026-09-18] ingest (auto) | Toyota, 휴머노이드 로봇 40만 대 공장 배치 계획
