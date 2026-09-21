@@ -109,6 +109,9 @@
 - [[2026-09-16-apple-enterprise-ai-server]]
 - [[2026-09-17-alphaxiv-openresearch]]
 - [[2026-09-18-toyota-humanoid-robot-400k]]
+- [[2026-09-17-anthropic-claude-rd-26pct]]
+- [[2026-09-19-altman-un-security-council-briefing]]
+- [[2026-09-20-qwen-image-2-1]]
 
 ## Comparisons
 

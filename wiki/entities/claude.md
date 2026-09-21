@@ -30,6 +30,10 @@ Anthropic의 LLM 제품군.
 - 2026-09-08: [[2026-09-08-anthropic-researcher-resignation-warning|연구원 사임 및 AI 위험 경고]] — Jacob Coxon이 초지능 경쟁의 위험성을 경고하며 사임, Alignment Science Lead Evan Hubinger는 "AI가 인류를 죽일 확률 10년 내 10% 이상"이라고 공개 발언
 - 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei, AI 개발 속도 조절 촉구]] — Altman·Musk 동조, Trump는 공개 거부
 
+## 연구 자동화 지표
+
+- 2026-09-17: [[2026-09-17-anthropic-claude-rd-26pct|"Claude가 자사 AI R&D의 26% 주도" 내부 지표 최초 공개]] — 2026-02 1% 미만에서 급증, 사내 에이전트 플랫폼에서 약 3만 개 에이전트 동시 가동, 완전 자율 운영은 아니라고 명시
+
 ## 분쟁
 
 - 2026-09-10: [[2026-09-10-moonshot-claude-routing-scandal|Moonshot 무단 우회·증류 의혹 제기]] — [[kimi|Kimi]] 참고
