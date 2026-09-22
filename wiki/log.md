@@ -68,3 +68,6 @@
 ## [2026-09-21] ingest (auto) | Anthropic, "Claude가 자사 AI R&D의 26% 주도" 지표 공개
 ## [2026-09-21] ingest (auto) | Alibaba, Qwen-Image-2.1 공개
 ## [2026-09-21] ingest (auto) | 알트먼, 9월 23일 유엔 안보리 AI 브리핑 예정
+## [2026-09-22] ingest (auto) | 인핸스, "에이전트 OS"로 시리즈C 512억 원 투자 유치
+## [2026-09-22] ingest (auto) | StepFun, 600B MoE 플래그십 "Step 5 Preview" 공개
+## [2026-09-22] ingest (auto) | 대기업 AI 연구소 "병역특례" 14년 만에 부활
