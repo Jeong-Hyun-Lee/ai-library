@@ -71,3 +71,6 @@
 ## [2026-09-22] ingest (auto) | 인핸스, "에이전트 OS"로 시리즈C 512억 원 투자 유치
 ## [2026-09-22] ingest (auto) | StepFun, 600B MoE 플래그십 "Step 5 Preview" 공개
 ## [2026-09-22] ingest (auto) | 대기업 AI 연구소 "병역특례" 14년 만에 부활
+## [2026-09-23] ingest (auto) | xAI, Grok 4.7 출시
+## [2026-09-23] ingest (auto) | MIT, AI 제어 초소형 비행 로봇 곤충형 곡예비행 구현
+## [2026-09-23] ingest (auto) | Anthropic, Claude Opus 5.5 출시

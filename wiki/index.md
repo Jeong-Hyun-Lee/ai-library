@@ -28,6 +28,7 @@
 - [[lawzero]]
 - [[mai-transcribe]]
 - [[mistral]]
+- [[mit]]
 - [[muse]]
 - [[nemotron]]
 - [[nomadian]]
@@ -117,6 +118,9 @@
 - [[2026-09-17-enhans-series-c]]
 - [[2026-09-20-stepfun-step-5-preview]]
 - [[2026-09-20-korea-ai-lab-military-exemption]]
+- [[2026-09-21-grok-4-7]]
+- [[2026-09-21-mit-insect-microrobot]]
+- [[2026-09-22-claude-opus-5-5]]
 
 ## Comparisons
 
