@@ -27,6 +27,7 @@
 - [[kitesurf]]
 - [[lawzero]]
 - [[mai-transcribe]]
+- [[mimo]]
 - [[mistral]]
 - [[mit]]
 - [[muse]]
@@ -121,6 +122,9 @@
 - [[2026-09-21-grok-4-7]]
 - [[2026-09-21-mit-insect-microrobot]]
 - [[2026-09-22-claude-opus-5-5]]
+- [[2026-09-21-xiaomi-mimo-v2-6]]
+- [[2026-09-22-gpt-6-sol-luna]]
+- [[2026-09-23-altman-amodei-un-security-council]]
 
 ## Comparisons
 

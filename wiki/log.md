@@ -74,3 +74,6 @@
 ## [2026-09-23] ingest (auto) | xAI, Grok 4.7 출시
 ## [2026-09-23] ingest (auto) | MIT, AI 제어 초소형 비행 로봇 곤충형 곡예비행 구현
 ## [2026-09-23] ingest (auto) | Anthropic, Claude Opus 5.5 출시
+## [2026-09-24] ingest (auto) | Xiaomi, 오픈소스 옴니모달 "MiMo-V2.6" 공개
+## [2026-09-24] ingest (auto) | OpenAI, GPT-6 Sol·Luna 출시
+## [2026-09-24] ingest (auto) | 알트먼·아모데이, 유엔 안보리 AI 안전 표준 공동 촉구
