@@ -2,6 +2,7 @@
 
 ## Entities
 
+- [[aleph-alpha]]
 - [[alpamayo]]
 - [[alphagenome]]
 - [[apple]]
@@ -10,9 +11,11 @@
 - [[atlas]]
 - [[atria]]
 - [[claude]]
+- [[cohere]]
 - [[cyberagents-exchange]]
 - [[deepmind]]
 - [[deepseek]]
+- [[densityai]]
 - [[enhans]]
 - [[gemini]]
 - [[glm]]
@@ -125,6 +128,9 @@
 - [[2026-09-21-xiaomi-mimo-v2-6]]
 - [[2026-09-22-gpt-6-sol-luna]]
 - [[2026-09-23-altman-amodei-un-security-council]]
+- [[2026-09-16-cohere-aleph-alpha-merger]]
+- [[2026-09-16-novo-nordisk-anthropic-claude-science]]
+- [[2026-09-25-densityai-10b-valuation]]
 
 ## Comparisons
 

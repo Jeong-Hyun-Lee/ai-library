@@ -77,3 +77,6 @@
 ## [2026-09-24] ingest (auto) | Xiaomi, 오픈소스 옴니모달 "MiMo-V2.6" 공개
 ## [2026-09-24] ingest (auto) | OpenAI, GPT-6 Sol·Luna 출시
 ## [2026-09-24] ingest (auto) | 알트먼·아모데이, 유엔 안보리 AI 안전 표준 공동 촉구
+## [2026-09-25] ingest (auto) | Cohere·Aleph Alpha, 200억 달러 규모 합병 계약 체결
+## [2026-09-25] ingest (auto) | Novo Nordisk·Anthropic, "Claude Science" 신약개발 협력
+## [2026-09-25] ingest (auto) | DensityAI, 100억 달러 밸류에이션 투자 논의
