@@ -131,6 +131,9 @@
 - [[2026-09-16-cohere-aleph-alpha-merger]]
 - [[2026-09-16-novo-nordisk-anthropic-claude-science]]
 - [[2026-09-25-densityai-10b-valuation]]
+- [[2026-09-20-openai-dns-sandbox-escape-training-pause]]
+- [[2026-09-23-gemini-3-8-flash-tts]]
+- [[2026-09-25-xai-colossus-2-expansion]]
 
 ## Comparisons
 

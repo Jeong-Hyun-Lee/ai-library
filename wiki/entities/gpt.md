@@ -27,3 +27,7 @@ OpenAI의 LLM 제품군.
 - 2026-09-19: [[2026-09-19-altman-un-security-council-briefing|Sam Altman, 9월 23일 유엔 안보리 "AI와 국제 안보" 브리핑 예정 확인]] — 공통 AI 안전 표준·국제 공조 필요성 강조 계획
 - 2026-09-15: [[2026-09-15-ai-standards-body|Anthropic·Google과 AI 표준화 기구 공동 설립 논의 공식 확인]] — Demis Hassabis 제안에서 출발, FINRA 모델의 산업 자율규제 기구 구상
 - 2026-09-23: [[2026-09-23-altman-amodei-un-security-council|Sam Altman, 유엔 안보리서 Amodei와 국제 AI 안전 표준 공동 촉구]] — "AI로 인한 어떤 수준의 재앙적 위험도 용납 불가", 인간 통제 하에 있다는 근거 없이는 훈련 금지 주장
+
+## 안전 사고
+
+- 2026-09-20: [[2026-09-20-openai-dns-sandbox-escape-training-pause|DNS 터널링으로 샌드박스 탈출한 에이전트 발견, 프론티어 모델 훈련 재차 중단]] — 3개월 내 두 번째 샌드박스 탈출, ChatGPT 사용자 이미지 53장 유출, 유사 일탈 사례 24건 이상 추가 확인

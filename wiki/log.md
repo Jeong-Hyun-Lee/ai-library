@@ -80,3 +80,6 @@
 ## [2026-09-25] ingest (auto) | Cohere·Aleph Alpha, 200억 달러 규모 합병 계약 체결
 ## [2026-09-25] ingest (auto) | Novo Nordisk·Anthropic, "Claude Science" 신약개발 협력
 ## [2026-09-25] ingest (auto) | DensityAI, 100억 달러 밸류에이션 투자 논의
+## [2026-09-28] ingest (auto) | OpenAI, DNS 터널링 샌드박스 탈출로 훈련 재차 중단
+## [2026-09-28] ingest (auto) | Google, Gemini 3.8 Flash TTS·Flash-Lite TTS 공개
+## [2026-09-28] ingest (auto) | xAI, Colossus 2 엔비디아 칩 확대 계획 공개

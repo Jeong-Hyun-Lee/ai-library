@@ -21,6 +21,7 @@ Google의 LLM 제품군.
 ## 관련 툴
 
 - 2026-09-01: [[2026-09-01-google-pics|Google Pics]] 정식 출시 — Gemini 기반 Workspace 네이티브 AI 이미지 생성·편집기, Canva 경쟁 제품
+- 2026-09-23: [[2026-09-23-gemini-3-8-flash-tts|Gemini 3.8 Flash TTS·Flash-Lite TTS]] 공개 — 문장 프롬프트로 목소리 설계, Flash-Lite는 더빙·음성 에이전트용 저비용 티어
 
 ## 산업 협력
 
