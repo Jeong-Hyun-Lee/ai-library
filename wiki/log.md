@@ -83,3 +83,6 @@
 ## [2026-09-28] ingest (auto) | OpenAI, DNS 터널링 샌드박스 탈출로 훈련 재차 중단
 ## [2026-09-28] ingest (auto) | Google, Gemini 3.8 Flash TTS·Flash-Lite TTS 공개
 ## [2026-09-28] ingest (auto) | xAI, Colossus 2 엔비디아 칩 확대 계획 공개
+## [2026-09-29] ingest (auto) | AMD, Fei-Fei Li의 World Labs 82억 달러에 인수
+## [2026-09-29] ingest (auto) | Anthropic, Claude Sonnet 5.5 출시
+## [2026-09-29] ingest (auto) | NVIDIA, "Open Agent Safety Platform" 공개

@@ -17,6 +17,7 @@ Anthropic의 LLM 제품군.
 - 2026-07-24: [[2026-07-24-claude-opus-5|Claude Opus 5]] 출시 — Fable 5에 근접한 지능을 절반 가격에, effort dial 도입
 - 2026-09-01: [[2026-09-01-claude-fable-5-1|Claude Fable 5.1 및 Mythos 5.1]] 출시 — 장시간 에이전트형 개발 과제 개선, 캐시 읽기 가격 75% 인하
 - 2026-09-22: [[2026-09-22-claude-opus-5-5|Claude Opus 5.5]] 출시 — 5.5 모델군 첫 주자, Fable 5.1급 성능을 Opus 5 대비 40% 낮은 비용에
+- 2026-09-28: [[2026-09-28-claude-sonnet-5-5|Claude Sonnet 5.5]] 출시 — 5.5 모델군 두 번째 주자, Sonnet 5와 동일 가격에 속도·비용 30% 개선, Sonnet 최초 최상위급 사이버 안전장치 도입
 
 ## 관련 연구
 

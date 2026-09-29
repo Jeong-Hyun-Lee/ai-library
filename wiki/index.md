@@ -36,6 +36,7 @@
 - [[muse]]
 - [[nemotron]]
 - [[nomadian]]
+- [[nvidia]]
 - [[openresearch]]
 - [[orbis]]
 - [[ox-alpha]]
@@ -134,6 +135,9 @@
 - [[2026-09-20-openai-dns-sandbox-escape-training-pause]]
 - [[2026-09-23-gemini-3-8-flash-tts]]
 - [[2026-09-25-xai-colossus-2-expansion]]
+- [[2026-09-28-amd-acquires-world-labs]]
+- [[2026-09-28-claude-sonnet-5-5]]
+- [[2026-09-28-nvidia-open-agent-safety-platform]]
 
 ## Comparisons
 
