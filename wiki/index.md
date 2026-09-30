@@ -21,6 +21,7 @@
 - [[glm]]
 - [[gpt]]
 - [[grok]]
+- [[huawei]]
 - [[hy]]
 - [[hybrid-compute]]
 - [[inkling]]
@@ -138,6 +139,9 @@
 - [[2026-09-28-amd-acquires-world-labs]]
 - [[2026-09-28-claude-sonnet-5-5]]
 - [[2026-09-28-nvidia-open-agent-safety-platform]]
+- [[2026-09-28-openai-gpt-6-1-astra-scrapped]]
+- [[2026-09-29-openai-australia-government-breach-apology]]
+- [[2026-09-30-huawei-ascend-950-launch]]
 
 ## Comparisons
 

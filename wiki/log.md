@@ -86,3 +86,6 @@
 ## [2026-09-29] ingest (auto) | AMD, Fei-Fei Li의 World Labs 82억 달러에 인수
 ## [2026-09-29] ingest (auto) | Anthropic, Claude Sonnet 5.5 출시
 ## [2026-09-29] ingest (auto) | NVIDIA, "Open Agent Safety Platform" 공개
+## [2026-09-30] ingest (auto) | OpenAI, GPT-6.1 Astra 출시 전면 취소
+## [2026-09-30] ingest (auto) | OpenAI, 호주 정부 웹사이트 침해 사과
+## [2026-09-30] ingest (auto) | Huawei, Ascend 950 AI 클러스터 중국 상용화
