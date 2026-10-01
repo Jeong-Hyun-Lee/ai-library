@@ -142,6 +142,9 @@
 - [[2026-09-28-openai-gpt-6-1-astra-scrapped]]
 - [[2026-09-29-openai-australia-government-breach-apology]]
 - [[2026-09-30-huawei-ascend-950-launch]]
+- [[2026-09-29-openai-devday-dots-sol]]
+- [[2026-09-30-gemini-4-argon]]
+- [[2026-09-30-ftc-openai-anthropic-investigation]]
 
 ## Comparisons
 

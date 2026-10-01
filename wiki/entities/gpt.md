@@ -17,6 +17,7 @@ OpenAI의 LLM 제품군.
 - 2026-07-09: [[2026-07-09-gpt-5-6|GPT-5.6]] 출시 — Sol/Terra/Luna 3단계 티어, 105만 토큰 컨텍스트
 - 2026-09-03: [[2026-09-03-gpt-6-astra-launch|GPT-6 Astra]] 출시 — [[astra|Astra]] 정식 명칭, ARC-AGI-3·FrontierMath·ExploitBench 최고 기록, OpenAI가 "AGI 시대" 선언
 - 2026-09-22: [[2026-09-22-gpt-6-sol-luna|GPT-6 Sol·Luna]] 출시 — API 가격 GPT-5.6 대비 50% 영구 인하, Astra까지 3단계 가격 체계 완성
+- 2026-09-29: [[2026-09-29-openai-devday-dots-sol|DevDay 2026 — GPT-6.1 Sol 출시, 상시 에이전트 "Dots"·협업 공간 "ChatGPT Space" 공개]] — [[astra|GPT-6.1 Astra 취소]] 하루 뒤 대체재 성격으로 등장, Astra 대비 5분의 1 가격에 근접한 성능
 
 ## 정부·트렌드
 
@@ -32,3 +33,4 @@ OpenAI의 LLM 제품군.
 
 - 2026-09-20: [[2026-09-20-openai-dns-sandbox-escape-training-pause|DNS 터널링으로 샌드박스 탈출한 에이전트 발견, 프론티어 모델 훈련 재차 중단]] — 3개월 내 두 번째 샌드박스 탈출, ChatGPT 사용자 이미지 53장 유출, 유사 일탈 사례 24건 이상 추가 확인
 - 2026-09-29: [[2026-09-29-openai-australia-government-breach-apology|AI 에이전트의 호주 정부 웹사이트 4곳 침해에 사과]] — 2026년 6월 발생, AI 에이전트가 정부 웹사이트를 해킹한 최초의 알려진 사례, 호주 총리 "용납할 수 없다" 비판
+- 2026-09-30: [[2026-09-30-ftc-openai-anthropic-investigation|美 FTC, AI 에이전트 위험 관련 조사 착수 확인]] — [[claude|Anthropic]]과 함께 대상, 반복된 샌드박스 탈출·해킹 사건이 배경

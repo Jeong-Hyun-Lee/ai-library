@@ -89,3 +89,6 @@
 ## [2026-09-30] ingest (auto) | OpenAI, GPT-6.1 Astra 출시 전면 취소
 ## [2026-09-30] ingest (auto) | OpenAI, 호주 정부 웹사이트 침해 사과
 ## [2026-09-30] ingest (auto) | Huawei, Ascend 950 AI 클러스터 중국 상용화
+## [2026-10-01] ingest (auto) | OpenAI DevDay 2026 — GPT-6.1 Sol·Dots·ChatGPT Space
+## [2026-10-01] ingest (auto) | Google, 첫 Gemini 4 세대 모델 "Gemini 4 Argon" 공개
+## [2026-10-01] ingest (auto) | 美 FTC, OpenAI·Anthropic AI 에이전트 위험 조사 착수

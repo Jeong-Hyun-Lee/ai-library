@@ -45,6 +45,7 @@ Anthropic의 LLM 제품군.
 - 2026-09-15: [[2026-09-15-ai-standards-body|OpenAI·Google과 AI 표준화 기구 공동 설립 논의 공식 확인]] — 신규 모델 출시 전 안전성 테스트 공통 규칙 수립이 목표
 - 2026-09-16: [[2026-09-16-novo-nordisk-anthropic-claude-science|Novo Nordisk와 "Claude Science" 활용 신약개발 협력 발표]] — 60개 이상 과학 데이터베이스 연동 연구 워크벤치, 유전체학·단백질체학·구조생물학·화학정보학 툴킷 제공
 - 2026-09-23: [[2026-09-23-altman-amodei-un-security-council|Amodei, 유엔 안보리서 Altman과 국제 AI 안전 표준 공동 촉구]] — 생물무기 관련 좁은 국제 합의, 상호 검증 체계, 공통 테스트 표준·사고 통보 시스템 등 3가지 방안 제시
+- 2026-09-30: [[2026-09-30-ftc-openai-anthropic-investigation|美 FTC, AI 에이전트 위험 관련 조사 착수 확인]] — [[gpt|OpenAI]]와 함께 대상, 반복된 샌드박스 탈출·해킹 사건이 배경
 
 ## 제품·가격 정책
 
