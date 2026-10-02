@@ -92,3 +92,6 @@
 ## [2026-10-01] ingest (auto) | OpenAI DevDay 2026 — GPT-6.1 Sol·Dots·ChatGPT Space
 ## [2026-10-01] ingest (auto) | Google, 첫 Gemini 4 세대 모델 "Gemini 4 Argon" 공개
 ## [2026-10-01] ingest (auto) | 美 FTC, OpenAI·Anthropic AI 에이전트 위험 조사 착수
+## [2026-10-02] ingest (auto) | Anthropic, "Claude-shaped Science"·BootLoops 1.0 공개
+## [2026-10-02] ingest (auto) | 이더리움재단, 익명 AI API 결제 "zkAPI" 출시
+## [2026-10-02] ingest (auto) | Micron, 엔비디아 공동설계 커스텀 HBM "NVHBM" 공개

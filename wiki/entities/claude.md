@@ -22,6 +22,7 @@ Anthropic의 LLM 제품군.
 ## 관련 연구
 
 - 2026-08-28: [[2026-08-28-anthropic-automated-alignment-research|자동화된 정렬(alignment) 연구 결과 발표]] — Claude가 문헌 검색·제안·학습·테스트 루프를 자율 수행해 10개 정렬 결함 범주 모두에서 개선책 발견
+- 2026-10-01: [[2026-10-01-anthropic-claude-shaped-science-bootloops|"Claude-shaped Science" 공개, 과학 연구용 오픈소스 하네스 BootLoops 1.0]] — 이론물리학자 Matthew Schwartz와 공동 개발, 물리학·생태학·유전학 등 정량 과학 계산에 활용
 
 ## 기업 정책
 

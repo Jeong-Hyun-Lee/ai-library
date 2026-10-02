@@ -50,6 +50,7 @@
 - [[toyota]]
 - [[typesafe-ai]]
 - [[weathernext]]
+- [[zkapi]]
 
 ## Concepts
 
@@ -145,6 +146,9 @@
 - [[2026-09-29-openai-devday-dots-sol]]
 - [[2026-09-30-gemini-4-argon]]
 - [[2026-09-30-ftc-openai-anthropic-investigation]]
+- [[2026-10-01-anthropic-claude-shaped-science-bootloops]]
+- [[2026-10-01-ethereum-zkapi-launch]]
+- [[2026-10-01-micron-nvhbm-tsmc]]
 
 ## Comparisons
 
@@ -153,3 +157,4 @@
 - [[2026-07]]
 - [[2026-08]]
 - [[2026-09]]
+- [[2026-10]]
