@@ -149,6 +149,9 @@
 - [[2026-10-01-anthropic-claude-shaped-science-bootloops]]
 - [[2026-10-01-ethereum-zkapi-launch]]
 - [[2026-10-01-micron-nvhbm-tsmc]]
+- [[2026-09-29-anthropic-religious-leaders-claude-consciousness]]
+- [[2026-10-03-iphone-macbook-ai-coprocessor]]
+- [[2026-10-05-korea-sovereign-ai-foundation-model-two-track]]
 
 ## Comparisons
 

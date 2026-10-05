@@ -15,3 +15,7 @@ auto: true
 ## 기업 정책
 
 - 2026-09-16: [[2026-09-16-apple-enterprise-ai-server|자체 칩 M8 Ultra 기반 기업용 AI 서버 개발 중]] — Nvidia NVLink Fusion 도입 논의, 2011년 Xserve 단종 이후 첫 외부 판매용 서버 재도전, 출시는 2029년 이후 예상
+
+## 온디바이스 AI
+
+- 2026-10-03: [[2026-10-03-iphone-macbook-ai-coprocessor|iPhone 17 Pro Max를 보조 연산장치로 활용, MacBook Pro 로컬 AI 추론 속도 최대 44% 향상]] — 두 기기 간 레이어 분할 연산으로 270억 파라미터 모델 프리필 속도 개선

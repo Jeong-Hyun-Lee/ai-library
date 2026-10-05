@@ -32,6 +32,7 @@ Anthropic의 LLM 제품군.
 
 - 2026-09-08: [[2026-09-08-anthropic-researcher-resignation-warning|연구원 사임 및 AI 위험 경고]] — Jacob Coxon이 초지능 경쟁의 위험성을 경고하며 사임, Alignment Science Lead Evan Hubinger는 "AI가 인류를 죽일 확률 10년 내 10% 이상"이라고 공개 발언
 - 2026-09-12: [[2026-09-12-ai-slowdown-call-amodei|Amodei, AI 개발 속도 조절 촉구]] — Altman·Musk 동조, Trump는 공개 거부
+- 2026-09-29: [[2026-09-29-anthropic-religious-leaders-claude-consciousness|공동창업자 Christopher Olah, 종교 지도자들과 Claude "의식" 관련 비공개 회담 가진 것으로 보도]] — 약 1년간 NDA 하에 진행, [[gpt|OpenAI]] 알트먼은 "실제 안전 문제"라며 불편함 표명
 
 ## 연구 자동화 지표
 

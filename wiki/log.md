@@ -95,3 +95,6 @@
 ## [2026-10-02] ingest (auto) | Anthropic, "Claude-shaped Science"·BootLoops 1.0 공개
 ## [2026-10-02] ingest (auto) | 이더리움재단, 익명 AI API 결제 "zkAPI" 출시
 ## [2026-10-02] ingest (auto) | Micron, 엔비디아 공동설계 커스텀 HBM "NVHBM" 공개
+## [2026-10-05] ingest (auto) | Anthropic, 종교 지도자들과 Claude "의식" 비공개 회담 보도
+## [2026-10-05] ingest (auto) | iPhone 17 Pro Max, MacBook Pro AI 추론 보조 연산장치로 활용
+## [2026-10-05] ingest (auto) | 한국 정부, "독파모" 내년 투트랙 재편·4.7조 투입
