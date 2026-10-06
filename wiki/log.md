@@ -98,3 +98,6 @@
 ## [2026-10-05] ingest (auto) | Anthropic, 종교 지도자들과 Claude "의식" 비공개 회담 보도
 ## [2026-10-05] ingest (auto) | iPhone 17 Pro Max, MacBook Pro AI 추론 보조 연산장치로 활용
 ## [2026-10-05] ingest (auto) | 한국 정부, "독파모" 내년 투트랙 재편·4.7조 투입
+## [2026-10-06] ingest (auto) | Anthropic, "로봇 노출 지수" 연구 공개
+## [2026-10-06] ingest (auto) | Reflection AI, 오픈웨이트 모델 "Beam" 공개
+## [2026-10-06] ingest (auto) | 과기정통부 AI안전연구소, LLM 해킹 방어 취약성 평가 발표

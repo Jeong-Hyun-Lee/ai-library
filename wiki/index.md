@@ -44,6 +44,7 @@
 - [[positron]]
 - [[profound]]
 - [[qwen]]
+- [[reflection-ai]]
 - [[sakana-ai]]
 - [[solaris]]
 - [[stepfun]]
@@ -152,6 +153,9 @@
 - [[2026-09-29-anthropic-religious-leaders-claude-consciousness]]
 - [[2026-10-03-iphone-macbook-ai-coprocessor]]
 - [[2026-10-05-korea-sovereign-ai-foundation-model-two-track]]
+- [[2026-09-30-anthropic-robot-exposure-index]]
+- [[2026-10-05-reflection-ai-beam]]
+- [[2026-10-06-korea-ai-safety-institute-llm-vulnerability]]
 
 ## Comparisons
 
