@@ -24,6 +24,7 @@ Anthropic의 LLM 제품군.
 - 2026-08-28: [[2026-08-28-anthropic-automated-alignment-research|자동화된 정렬(alignment) 연구 결과 발표]] — Claude가 문헌 검색·제안·학습·테스트 루프를 자율 수행해 10개 정렬 결함 범주 모두에서 개선책 발견
 - 2026-10-01: [[2026-10-01-anthropic-claude-shaped-science-bootloops|"Claude-shaped Science" 공개, 과학 연구용 오픈소스 하네스 BootLoops 1.0]] — 이론물리학자 Matthew Schwartz와 공동 개발, 물리학·생태학·유전학 등 정량 과학 계산에 활용
 - 2026-09-30: [[2026-09-30-anthropic-robot-exposure-index|"로봇 노출 지수" 연구 공개]] — 로봇이 물리 작업의 75%를 수행 가능하지만 비용 경쟁력 있는 과업은 0.3%뿐, O*NET 데이터 기반 Claude 채점
+- 2026-10-06: [[2026-10-06-claude-opus-5-5-magnetic-semiconductor|Claude Opus 5.5 에이전트 90여 개, 상온 작동 자성 반도체 후보물질 2종 발견]] — 3일간 시뮬레이션으로 신물질 1종 설계·1999년 화합물 1종 재발견, 차세대 스핀트로닉 메모리 응용 가능성
 
 ## 기업 정책
 

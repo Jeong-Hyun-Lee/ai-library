@@ -29,6 +29,7 @@
 - [[k2-horizon]]
 - [[kimi]]
 - [[kitesurf]]
+- [[kt]]
 - [[lawzero]]
 - [[mai-transcribe]]
 - [[mimo]]
@@ -156,6 +157,9 @@
 - [[2026-09-30-anthropic-robot-exposure-index]]
 - [[2026-10-05-reflection-ai-beam]]
 - [[2026-10-06-korea-ai-safety-institute-llm-vulnerability]]
+- [[2026-10-06-mistral-large-4]]
+- [[2026-10-06-claude-opus-5-5-magnetic-semiconductor]]
+- [[2026-10-07-kt-modue-ai-close-beta]]
 
 ## Comparisons
 

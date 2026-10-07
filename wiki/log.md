@@ -101,3 +101,6 @@
 ## [2026-10-06] ingest (auto) | Anthropic, "로봇 노출 지수" 연구 공개
 ## [2026-10-06] ingest (auto) | Reflection AI, 오픈웨이트 모델 "Beam" 공개
 ## [2026-10-06] ingest (auto) | 과기정통부 AI안전연구소, LLM 해킹 방어 취약성 평가 발표
+## [2026-10-07] ingest (auto) | Mistral, 1조 파라미터 "Large 4(Le Chonk)" 공개
+## [2026-10-07] ingest (auto) | Claude Opus 5.5 에이전트, 자성 반도체 후보물질 발견
+## [2026-10-07] ingest (auto) | KT, 국산 AI 연합 "모두의 AI" 클로즈 베타 공개
