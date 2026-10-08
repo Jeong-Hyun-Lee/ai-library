@@ -104,3 +104,6 @@
 ## [2026-10-07] ingest (auto) | Mistral, 1조 파라미터 "Large 4(Le Chonk)" 공개
 ## [2026-10-07] ingest (auto) | Claude Opus 5.5 에이전트, 자성 반도체 후보물질 발견
 ## [2026-10-07] ingest (auto) | KT, 국산 AI 연합 "모두의 AI" 클로즈 베타 공개
+## [2026-10-08] ingest (auto) | 수학자들, AI 생성 증명 아카이브 "Hexagon" 출범
+## [2026-10-08] ingest (auto) | Anthropic, Claude Haiku 5.5 출시
+## [2026-10-08] ingest (auto) | OpenAI, GPT-6를 전체 ChatGPT 사용자로 확대

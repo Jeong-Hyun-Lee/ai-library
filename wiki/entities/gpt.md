@@ -18,6 +18,7 @@ OpenAI의 LLM 제품군.
 - 2026-09-03: [[2026-09-03-gpt-6-astra-launch|GPT-6 Astra]] 출시 — [[astra|Astra]] 정식 명칭, ARC-AGI-3·FrontierMath·ExploitBench 최고 기록, OpenAI가 "AGI 시대" 선언
 - 2026-09-22: [[2026-09-22-gpt-6-sol-luna|GPT-6 Sol·Luna]] 출시 — API 가격 GPT-5.6 대비 50% 영구 인하, Astra까지 3단계 가격 체계 완성
 - 2026-09-29: [[2026-09-29-openai-devday-dots-sol|DevDay 2026 — GPT-6.1 Sol 출시, 상시 에이전트 "Dots"·협업 공간 "ChatGPT Space" 공개]] — [[astra|GPT-6.1 Astra 취소]] 하루 뒤 대체재 성격으로 등장, Astra 대비 5분의 1 가격에 근접한 성능
+- 2026-10-08: [[2026-10-08-gpt-6-free-users-rollout|GPT-6를 ChatGPT 전체 사용자(무료 포함)로 확대]] — Plus 이상은 Sol, Free·Go는 Luna, "Intelligent UI" 신기능 도입
 
 ## 정부·트렌드
 

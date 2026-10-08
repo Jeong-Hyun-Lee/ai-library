@@ -22,6 +22,7 @@
 - [[gpt]]
 - [[grok]]
 - [[huawei]]
+- [[hexagon]]
 - [[hy]]
 - [[hybrid-compute]]
 - [[inkling]]
@@ -160,6 +161,9 @@
 - [[2026-10-06-mistral-large-4]]
 - [[2026-10-06-claude-opus-5-5-magnetic-semiconductor]]
 - [[2026-10-07-kt-modue-ai-close-beta]]
+- [[2026-10-06-hexagon-ai-proofs-archive]]
+- [[2026-10-07-claude-haiku-5-5]]
+- [[2026-10-08-gpt-6-free-users-rollout]]
 
 ## Comparisons
 
