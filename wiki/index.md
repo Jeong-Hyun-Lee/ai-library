@@ -164,6 +164,9 @@
 - [[2026-10-06-hexagon-ai-proofs-archive]]
 - [[2026-10-07-claude-haiku-5-5]]
 - [[2026-10-08-gpt-6-free-users-rollout]]
+- [[2026-10-08-anthropic-usage-policy-update]]
+- [[2026-10-08-anthropic-genesis-mission-150m]]
+- [[2026-10-08-anthropic-cyber-mission-oss-scanner]]
 
 ## Comparisons
 

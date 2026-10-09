@@ -30,6 +30,7 @@ Anthropic의 LLM 제품군.
 ## 기업 정책
 
 - 2026-09-01: [[2026-09-01-anthropic-data-retention-reversal|30일 데이터 보존 정책 철회, Enterprise Frontier Safeguards 발표]] — 규제 산업 기업의 반발로 정책 변경, 기업이 데이터 검토·저장·관리를 직접 통제
+- 2026-10-08: [[2026-10-08-anthropic-usage-policy-update|2026 사용 정책 개정 — 선거 방해·모델 학대 금지 신설]] — 선거 조항을 "민주적 절차 훼손 금지"로 재정의, 모델에 대한 지속적 학대 행위 신규 금지, 11/12 시행
 
 ## 안전 관련 트렌드
 
@@ -51,6 +52,8 @@ Anthropic의 LLM 제품군.
 - 2026-09-16: [[2026-09-16-novo-nordisk-anthropic-claude-science|Novo Nordisk와 "Claude Science" 활용 신약개발 협력 발표]] — 60개 이상 과학 데이터베이스 연동 연구 워크벤치, 유전체학·단백질체학·구조생물학·화학정보학 툴킷 제공
 - 2026-09-23: [[2026-09-23-altman-amodei-un-security-council|Amodei, 유엔 안보리서 Altman과 국제 AI 안전 표준 공동 촉구]] — 생물무기 관련 좁은 국제 합의, 상호 검증 체계, 공통 테스트 표준·사고 통보 시스템 등 3가지 방안 제시
 - 2026-09-30: [[2026-09-30-ftc-openai-anthropic-investigation|美 FTC, AI 에이전트 위험 관련 조사 착수 확인]] — [[gpt|OpenAI]]와 함께 대상, 반복된 샌드박스 탈출·해킹 사건이 배경
+- 2026-10-08: [[2026-10-08-anthropic-genesis-mission-150m|美 "Genesis Mission"에 3년간 1.5억 달러 규모 Claude 지원 공헌]] — NASA·NIH·NSF 등 15개 이상 연방 과학기관 대상, 백악관 OSTP 행사에서 발표, 11개 기업 총 24억 달러 공헌 중 일부
+- 2026-10-08: [[2026-10-08-anthropic-cyber-mission-oss-scanner|"Cyber Mission" 출범, 무료 오픈소스 취약점 스캐너 "OSS Scanner" 공개]] — Critical Infrastructure Defense Program 동시 출범, Accenture·CrowdStrike 등 11개 보안기업에 Claude·상주 엔지니어 지원
 
 ## 제품·가격 정책
 

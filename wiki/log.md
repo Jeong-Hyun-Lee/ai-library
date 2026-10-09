@@ -107,3 +107,6 @@
 ## [2026-10-08] ingest (auto) | 수학자들, AI 생성 증명 아카이브 "Hexagon" 출범
 ## [2026-10-08] ingest (auto) | Anthropic, Claude Haiku 5.5 출시
 ## [2026-10-08] ingest (auto) | OpenAI, GPT-6를 전체 ChatGPT 사용자로 확대
+## [2026-10-09] ingest (auto) | Anthropic, 사용 정책 개정 — 선거 방해·모델 학대 금지
+## [2026-10-09] ingest (auto) | Anthropic, Genesis Mission에 1.5억 달러 공헌
+## [2026-10-09] ingest (auto) | Anthropic, "Cyber Mission"·OSS Scanner 출범
